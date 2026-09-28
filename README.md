@@ -5,4 +5,7 @@ Este repositório documenta a análise técnica, investigação OSINT e resposta
 
 - [Engenharia Social](./Engenharia-Social/): Prints, transcrição e análise da abordagem via WhatsApp.
 - [Análise do Malware](./Analise-Malware/): Funcionamento, permissões e comportamento do arquivo `.apk`.
-- []
+- [Vulnerabilidades e Origem](./Hipoteses-Vulnerabilidade/): Modelagem de ameaças (Insider Threat vs. Vazamento em CRM).
+- [Matriz de Risco](./Matriz-Riscos-Impactos/): Análise de impacto financeiro e operacional.
+- [Investigação OSINT](./Osint-Investigacao/): Levantamento passivo da infraestrutura do atacante.
+- [Resposta a Incidentes](./Resposta-e-Hardening/): Procedimento de contenção e guia de segurança aplicado.
