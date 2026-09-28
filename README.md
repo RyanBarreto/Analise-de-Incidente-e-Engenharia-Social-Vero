@@ -5,3 +5,4 @@ Este repositório documenta a análise técnica, investigação OSINT e resposta
 
 - [Engenharia Social](./Engenharia-Social/): Prints, transcrição e análise da abordagem via WhatsApp.
 - [Análise do Malware](./Analise-Malware/): Funcionamento, permissões e comportamento do arquivo `.apk`.
+- []
