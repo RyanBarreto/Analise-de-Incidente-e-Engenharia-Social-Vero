@@ -9,3 +9,5 @@ Este repositório documenta a análise técnica, investigação OSINT e resposta
 - [Matriz de Risco](./Matriz-Riscos-Impactos/): Análise de impacto financeiro e operacional.
 - [Investigação OSINT](./Osint-Investigacao/): Levantamento passivo da infraestrutura do atacante.
 - [Resposta a Incidentes](./Resposta-e-Hardening/): Procedimento de contenção e guia de segurança aplicado.
+
+Isenção de Responsabilidade (OpSec & Legal)
