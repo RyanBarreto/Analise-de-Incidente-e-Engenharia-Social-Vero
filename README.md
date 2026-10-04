@@ -11,17 +11,4 @@ Este repositório documenta a análise técnica, investigação OSINT e resposta
 - [Resposta a Incidentes](./Resposta-e-Hardening/): Procedimento de contenção e guia de segurança aplicado.
 
 
-
-
-
-
-
-
-
-
-
-
-
-d
-
 Isenção de Responsabilidade (OpSec & Legal)
