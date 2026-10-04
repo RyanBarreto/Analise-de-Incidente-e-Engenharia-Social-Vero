@@ -13,4 +13,15 @@ Este repositório documenta a análise técnica, investigação OSINT e resposta
 
 
 
+
+
+
+
+
+
+
+
+
+d
+
 Isenção de Responsabilidade (OpSec & Legal)
